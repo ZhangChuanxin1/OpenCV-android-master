@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/shuaiwashadie/Downloads/OpenCV-android-master/app/CMakeLists.txt",
+    "/Users/shuaiwashadie/Library/Android/sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
+    "/Users/shuaiwashadie/Library/Android/sdk/ndk/20.0.5594570/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/shuaiwashadie/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/shuaiwashadie/Downloads/OpenCV-android-master/app/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/shuaiwashadie/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/shuaiwashadie/Downloads/OpenCV-android-master/app/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/shuaiwashadie/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/shuaiwashadie/Downloads/OpenCV-android-master/app/.cxx/cmake/release/x86\" native-lib",
+      "abi": "x86",
+      "output": "/Users/shuaiwashadie/Downloads/OpenCV-android-master/app/build/intermediates/cmake/release/obj/x86/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

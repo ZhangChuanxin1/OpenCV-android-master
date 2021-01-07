@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OpenCV-android-master.iml" filepath="$PROJECT_DIR$/.idea/modules/OpenCV-android-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OpenCV-android-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OpenCV-android-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary3_2_0/OpenCV-android-master.openCVLibrary3_2_0.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary3_2_0/OpenCV-android-master.openCVLibrary3_2_0.iml" />
+    </modules>
+  </component>
+</project>

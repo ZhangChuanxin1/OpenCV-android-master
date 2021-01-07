@@ -1,0 +1,7 @@
+Executable : /Users/shuaiwashadie/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/shuaiwashadie/Downloads/OpenCV-android-master/app/.cxx/cmake/debug/armeabi-v7a
+native-lib
+jvmArgs : 
+
